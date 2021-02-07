@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-basic-color-app/static/css/main.c555d6c9.chunk.css",
+    "main.js": "/react-basic-color-app/static/js/main.470b554f.chunk.js",
+    "main.js.map": "/react-basic-color-app/static/js/main.470b554f.chunk.js.map",
+    "runtime-main.js": "/react-basic-color-app/static/js/runtime-main.f1f1d0e7.js",
+    "runtime-main.js.map": "/react-basic-color-app/static/js/runtime-main.f1f1d0e7.js.map",
+    "static/js/2.04f823c8.chunk.js": "/react-basic-color-app/static/js/2.04f823c8.chunk.js",
+    "static/js/2.04f823c8.chunk.js.map": "/react-basic-color-app/static/js/2.04f823c8.chunk.js.map",
+    "static/js/3.1f8b0ca6.chunk.js": "/react-basic-color-app/static/js/3.1f8b0ca6.chunk.js",
+    "static/js/3.1f8b0ca6.chunk.js.map": "/react-basic-color-app/static/js/3.1f8b0ca6.chunk.js.map",
+    "index.html": "/react-basic-color-app/index.html",
+    "static/css/main.c555d6c9.chunk.css.map": "/react-basic-color-app/static/css/main.c555d6c9.chunk.css.map",
+    "static/js/2.04f823c8.chunk.js.LICENSE.txt": "/react-basic-color-app/static/js/2.04f823c8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1f1d0e7.js",
+    "static/js/2.04f823c8.chunk.js",
+    "static/css/main.c555d6c9.chunk.css",
+    "static/js/main.470b554f.chunk.js"
+  ]
+}
